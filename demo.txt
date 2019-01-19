@@ -1,3 +1,11 @@
-Derulați în partea de jos a paginii de editare și selectați Commit changes. Mesajul de validare implicit ("Update
+﻿Derulați în partea de jos a paginii de editare și selectați Commit changes. Mesajul de validare implicit ("Update
 demo.txt") este suficient aici și nu este nevoie să îl modificați. În acest moment, am actualizat demo.txt pe
 depozit. Cu toate acestea, am făcut-o pe server, deci hai să vedem starea repo-ului nostru local. 
+
+
+
+Airbus A320 Family
+A318
+A319
+A320
+A321
